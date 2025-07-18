@@ -38,10 +38,10 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitydv25&show_icons=true&theme=tokyonight" alt="Ankit's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitshere&show_icons=true&theme=tokyonight" alt="Ankit's GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitydv25&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitshere&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
