@@ -87,7 +87,18 @@ I enjoy turning ideas into clean, functional interfaces and I'm on a journey to 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitshere&bg_color=0D1117&color=00FFFF&line=0ea5e9&point=00FFFF&area=true&area_color=0ea5e9&hide_border=true&radius=6&custom_title=Ankit's%20Contribution%20Graph" width="100%" alt="Contribution Graph"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=ankitshere&bg_color=0D1117&color=00e5ff&line=0ea5e9&point=ffffff&area=true&area_color=0ea5e9&hide_border=true&radius=8&custom_title=📊%20Ankit's%20Contribution%20Activity" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ankitshere&bg_color=0D1117&color=00e5ff&line=0ea5e9&point=0ea5e9&area=true&area_color=0ea5e9&hide_border=true&radius=8&custom_title=📊%20Ankit's%20Contribution%20Activity"
+    width="100%" alt="Contribution Graph" />
+</picture>
+
+<br/>
+
+<!-- Animated shimmer calendar strip -->
+<img src="https://ghchart.rshah.org/0ea5e9/ankitshere" width="100%" alt="Ankit's GitHub chart" />
 
 <br/><br/>
 
