@@ -1,53 +1,72 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:0D1117&height=200&section=header&text=Ankit%20Yadav&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Fullstack%20Learner%20%7C%20UI%20Craftsman&descAlignY=58&descSize=18&descColor=00D9FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0ea5e9,100:0D1117&height=180&section=header&text=Ankit%20Yadav&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Full%20Stack%20Web%20Developer%20%7C%20India%20%F0%9F%87%AE%F0%9F%87%B3&descAlignY=58&descSize=17&descColor=7dd3fc" width="100%"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Frontend+Developer+%F0%9F%9A%80;React+%2B+Tailwind+%2B+GSAP+Craftsman;Fullstack+Learner+%E2%86%92+MERN+Stack;I+don't+write+code+%E2%80%94+I+craft+experiences." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1000&color=0ea5e9&center=true&vCenter=true&random=false&width=560&lines=Building+the+web%2C+one+component+at+a+time.;Frontend+Developer+%E2%86%92+Full+Stack+in+progress.;Learning+React+%7C+Backend+%7C+Real-World+Projects.;Open+to+collaborate+%26+build+cool+things." />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ankitshere&color=00D9FF&style=flat-square&label=Profile+Views)](https://github.com/ankitshere)
-[![GitHub followers](https://img.shields.io/github/followers/ankitshere?style=flat-square&color=00D9FF&labelColor=0D1117)](https://github.com/ankitshere)
+[![Profile Views](https://komarev.com/ghpvc/?username=ankitshere&color=0ea5e9&style=flat-square&label=Profile+Views)](https://github.com/ankitshere)
+&nbsp;
+[![GitHub Followers](https://img.shields.io/github/followers/ankitshere?style=flat-square&color=0ea5e9&labelColor=0D1117&label=Followers)](https://github.com/ankitshere)
 
 </div>
 
 ---
 
-## 👋 Hi, I'm Ankit Yadav
+## 👨‍💻 Introduction
 
-> 🎮 *"Every great UI is just a game the user enjoys playing."*
+Hi, I'm **Ankit Yadav** — an aspiring Full Stack Web Developer from India, currently focused on mastering frontend fundamentals and working my way toward building complete, production-ready web applications.
 
-🎓 **Frontend Developer** | 💻 **Fullstack Learner (MERN)** | 🎨 **UI/UX & Animation Enthusiast**
+I enjoy turning ideas into clean, functional interfaces and I'm on a journey to grow into a well-rounded developer who can handle both the UI and the server side.
 
-- 🔭 Currently diving deep into **Fullstack Web Development**
-- 🌱 Learning **Node.js · MongoDB · Next.js · DSA**
-- 🎯 Goal 2025: Ship **10+ projects** & land my **first dev role**
-- 🤝 Open to **collaborations, freelance & internship** opportunities
-- ⚡ Fun fact: My GSAP animations have made jaws drop (allegedly)
+---
+
+## 🧭 About Me
+
+- 🎯 Goal: Become a skilled **Full Stack Developer** and build impactful web applications
+- 🌱 Currently sharpening my **JavaScript** skills and learning **React**
+- 🔧 Exploring backend technologies to complete the full stack picture
+- 🖥️ Passionate about writing **clean, readable, and maintainable code**
+- 🤝 Open to collaborating on **open source projects** and real-world builds
+- 📍 Based in **India** — learning, building, and shipping daily
 
 ---
 
 ## 🛠️ Tech Stack
 
-#### Frontend
+#### Core
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-#### Styling & Animation
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-
-#### Tools
+#### Tools & Workflow
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-#### Currently Learning
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+---
+
+## 📚 Currently Learning
+
+[![JavaScript](https://img.shields.io/badge/JavaScript_Advanced-Learning-F7DF1E?style=flat-square&labelColor=1a1a2e)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-In_Progress-61DAFB?style=flat-square&labelColor=1a1a2e)](https://react.dev)
+[![Node.js](https://img.shields.io/badge/Node.js-Exploring-6DA55F?style=flat-square&labelColor=1a1a2e)](https://nodejs.org)
+[![Backend Dev](https://img.shields.io/badge/Backend_Development-Exploring-0ea5e9?style=flat-square&labelColor=1a1a2e)](#)
+[![Full Stack](https://img.shields.io/badge/Full_Stack_Path-Active-a855f7?style=flat-square&labelColor=1a1a2e)](#)
+
+---
+
+## 🚀 Projects
+
+| Project | Description | Stack | Status |
+|--------|-------------|-------|--------|
+| 🌐 **Portfolio Website** | Personal portfolio showcasing my work and skills | HTML, CSS, JS | ✅ Live |
+| ✍️ **Blog Website** | Clean blog layout with reading-focused UI | HTML, CSS, JS | ✅ Complete |
+| 💳 **BriskPay Landing Page** | Modern fintech-style landing page UI | HTML, Tailwind CSS | ✅ Complete |
+| 🔧 **Full Stack Projects** | Real-world apps with frontend + backend | React, Node, MongoDB | 🔄 Coming Soon |
 
 ---
 
@@ -55,10 +74,10 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ankitshere&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitshere&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ankitshere&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=FFFFFF&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitshere&theme=tokyonight&hide_border=true&background=0D1117&ring=0ea5e9&fire=f97316&currStreakLabel=0ea5e9" />
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitshere&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitshere&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0ea5e9&text_color=FFFFFF" />
 
 </div>
 
@@ -68,7 +87,7 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ankitshere&bg_color=0d1117&color=00D9FF&line=7c3aed&point=e9d5ff&area=true&area_color=7c3aed&hide_border=true&radius=8)](https://github.com/ankitshere)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ankitshere&bg_color=0D1117&color=0ea5e9&line=0ea5e9&point=ffffff&area=true&area_color=0ea5e9&hide_border=true&radius=6)](https://github.com/ankitshere)
 
 </div>
 
@@ -81,43 +100,40 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankitshere/ankitshere/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ankitshere/ankitshere/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/ankitshere/ankitshere/output/github-snake-dark.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/ankitshere/ankitshere/output/github-snake-dark.svg" />
 </picture>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=ankitshere&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
-
-</div>
-
----
-
-## 🌐 Let's Connect
+## 🌐 Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankit-webdev)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Ankityadav15885)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/codeby_ankitt)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=00D9FF)](https://github.com/ankitshere)
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ankitshere)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7c3aed,100:00D9FF&height=120&section=footer&text=Keep+Building+%F0%9F%9A%80&fontSize=20&fontColor=e9d5ff&animation=twinkling&fontAlignY=65" width="100%"/>
+<div align="center">
+
+*"The best time to start building was yesterday. The second best time is right now."*
+
+**Keep shipping. Keep growing. 🚀**
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0ea5e9,100:0D1117&height=100&section=footer&animation=fadeIn" width="100%"/>
 
 <!-- ──────────────────────────────────────────────────────────────────
-  🐍 TO ACTIVATE THE SNAKE ANIMATION:
-  Create .github/workflows/snake.yml in your profile repo with:
+  🐍 SNAKE ANIMATION SETUP — create this file in your profile repo:
+  Path: .github/workflows/snake.yml
 
-  name: Generate Snake Animation
+  name: Generate Snake
   on:
     schedule: [{ cron: "0 */12 * * *" }]
     workflow_dispatch:
