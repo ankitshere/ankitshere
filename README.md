@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1000&color=0ea5e9&center=true&vCenter=true&random=false&width=560&lines=Building+the+web%2C+one+component+at+a+time.;Frontend+Developer+%E2%86%92+Full+Stack+in+progress.;Learning+React+%7C+Backend+%7C+Real-World+Projects.;Open+to+collaborate+%26+build+cool+things." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1000&color=0ea5e9&center=true&vCenter=true&random=false&width=560&lines=Building+the+web%2C+one+component+at+a+time.;Frontend+Developer+%E2%86%92+Full+Stack+in+progress.;Learning+React+%7C+Backend+%7C+Real-World+Projects.;Open+to+collaborate+%26+build+impactful+things." />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ankitshere&color=0ea5e9&style=flat-square&label=Profile+Views)](https://github.com/ankitshere)
 &nbsp;
@@ -93,20 +93,6 @@ I enjoy turning ideas into clean, functional interfaces and I'm on a journey to 
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankitshere/ankitshere/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ankitshere/ankitshere/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/ankitshere/ankitshere/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -128,31 +114,3 @@ I enjoy turning ideas into clean, functional interfaces and I'm on a journey to 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0ea5e9,100:0D1117&height=100&section=footer&animation=fadeIn" width="100%"/>
-
-<!-- ──────────────────────────────────────────────────────────────────
-  🐍 SNAKE ANIMATION SETUP — create this file in your profile repo:
-  Path: .github/workflows/snake.yml
-
-  name: Generate Snake
-  on:
-    schedule: [{ cron: "0 */12 * * *" }]
-    workflow_dispatch:
-    push: { branches: [main] }
-  jobs:
-    build:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: actions/checkout@v3
-        - uses: Platane/snk@v3
-          with:
-            github_user_name: ankitshere
-            outputs: |
-              dist/github-snake.svg
-              dist/github-snake-dark.svg?palette=github-dark
-        - uses: crazy-max/ghaction-github-pages@v3.1.0
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-────────────────────────────────────────────────────────────────── -->
