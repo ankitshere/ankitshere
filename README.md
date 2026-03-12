@@ -87,7 +87,7 @@ I enjoy turning ideas into clean, functional interfaces and I'm on a journey to 
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ankitshere&bg_color=0D1117&color=0ea5e9&line=0ea5e9&point=ffffff&area=true&area_color=0ea5e9&hide_border=true&radius=6)](https://github.com/ankitshere)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitshere&bg_color=0D1117&color=0ea5e9&line=0ea5e9&point=ffffff&area=true&area_color=0ea5e9&hide_border=true&radius=6&animation=true" width="100%" alt="Ankit's Contribution Graph"/>
 
 </div>
 
