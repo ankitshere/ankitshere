@@ -87,7 +87,17 @@ I enjoy turning ideas into clean, functional interfaces and I'm on a journey to 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitshere&bg_color=0D1117&color=0ea5e9&line=0ea5e9&point=ffffff&area=true&area_color=0ea5e9&hide_border=true&radius=6&animation=true" width="100%" alt="Ankit's Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitshere&bg_color=0D1117&color=00FFFF&line=0ea5e9&point=00FFFF&area=true&area_color=0ea5e9&hide_border=true&radius=6&custom_title=Ankit's%20Contribution%20Graph" width="100%" alt="Contribution Graph"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankitshere&theme=tokyonight" width="100%" alt="Profile Summary"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankitshere&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ankitshere&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ankitshere&theme=tokyonight&utcOffset=5.5" width="32%" />
 
 </div>
 
