@@ -65,8 +65,7 @@ I enjoy turning ideas into clean, functional interfaces and I'm on a journey to 
 |--------|-------------|-------|--------|
 | 🌐 **Portfolio Website** | Personal portfolio showcasing my work and skills | HTML, CSS, JS | ✅ Live |
 | ✍️ **Blog Website** | Clean blog layout with reading-focused UI | HTML, CSS, JS | ✅ Complete |
-| 💳 **BriskPay Landing Page** | Modern fintech-style landing page UI | HTML, Tailwind CSS | ✅ Complete |
-| 🔧 **Full Stack Projects** | Real-world apps with frontend + backend | React, Node, MongoDB | 🔄 Coming Soon |
+| |
 
 ---
 
